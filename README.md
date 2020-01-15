@@ -14,6 +14,7 @@
 - See [Viser Demo for React/Vue/Angular](https://viserjs.github.io/demo.html).
 
 ```
+# npm install --save weixin-js-sdk
 # Viser (for chart)
 npm install viser-vue
 # ElementUI
